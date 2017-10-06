@@ -24,6 +24,8 @@ I am also providing the source code in two different ways:
 1)  As individual files on this web site.
 2)  As a zip file, ProbableisticMelodySource.zip
 
+Keep in mind that I created it using the Netbeans 8.2 IDE   I can't speak to how easy, or difficult, it would be to edit it using Eclipse.
+
 Please send any comments to
 
 Brian M. Dean
